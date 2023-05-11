@@ -1,0 +1,15 @@
+
+@media screen and (max-width:1200px) and (min-width:768px){
+
+}
+@media screen and (max-width:767px) and (min-width:500px){
+    .home h1{
+        font-size: 35px;
+    }
+
+}
+@media screen and (max-width:499px) {
+    .home h1{
+        font-size: 35px;
+    }
+}
